@@ -1,4 +1,2 @@
 tes 1 : kode benar
 tes 2 : kode benar
-tes 3 : kode benar
-tes 4 : kode salah
